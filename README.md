@@ -1,4 +1,4 @@
-** Global Chat **
+**Global Chat**
 
 
 Discord.js [v12] Global Chat Bot with sqlite3
