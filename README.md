@@ -1,8 +1,8 @@
-**Global Chat**
+** Global Chat **
 
 
-Discord.js[v12] Global Chat Bot mit sqlite3
+Discord.js [v12] Global Chat Bot with sqlite3
 
-Benutze npm i discord.js sequelize sqlite3 Um die Packages zu installieren. Deinen Token setzt du bei const token = token ein.
+Use npm i discord.js Sequelize sqlite3 to install the packages. You use your token with const token = token.
 
 Commands: add, remove, help, info
